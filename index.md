@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## FakeMario
 
 You can use the [editor on GitHub](https://github.com/yungmagnus/Leikja2Loka/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
