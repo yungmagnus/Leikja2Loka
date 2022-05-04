@@ -13,6 +13,6 @@ You will be using "WASD" for moving around. Spacebar to jump and the "C" key to 
 
 Here can you see [Gameplay](https://youtu.be/Sx2RsTM39-A) of the game itself.
 
-### Support or Contact
+### Try it out for yourself.
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
