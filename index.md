@@ -7,14 +7,11 @@ The Controls are rather simple:
 
 ```markdown
 You will be using "WASD" for moving around. Spacebar to jump and the "C" key to crouch
-
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yungmagnus/Leikja2Loka/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Here can you see [Gameplay](https://github.com/yungmagnus/Leikja2Loka/settings/pages) of the game itself.
 
 ### Support or Contact
 
