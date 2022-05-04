@@ -1,9 +1,6 @@
 ## FakeMario
 
-Is a Unity based game built in a 3d enivornment but is played as a 2d platformer.You can use the [editor on GitHub](https://github.com/yungmagnus/Leikja2Loka/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+Is a Unity based game built in a 3d enivornment but is played as a 2d platformer. In this game you will encounter enemies, moving projectiles and damaging terrain. Lucky for you that you have 3 lives to work with. On your way to the end of the level you will be able to collect coins and keep track of your score. Also there will be powerups that you can pickup and make you more powerful. 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
