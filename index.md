@@ -9,9 +9,9 @@ The Controls are rather simple:
 You will be using "WASD" for moving around. Spacebar to jump and the "C" key to crouch
 ```
 
-### Jekyll Themes
+### Game footage [Game Unfinshed at state of recording]
 
-Here can you see [Gameplay](https://github.com/yungmagnus/Leikja2Loka/settings/pages) of the game itself.
+Here can you see [Gameplay](https://youtu.be/Sx2RsTM39-A) of the game itself.
 
 ### Support or Contact
 
