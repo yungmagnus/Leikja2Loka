@@ -22,6 +22,6 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 [Here](https://github.com/yungmagnus/Leikja2Loka/wiki) is the link to the github wiki there you will be able to find my scripts for the project.
 
 ### Downloads:
-[Windows:]()
+[Windows.]()
 
-[Mac:]()
+[Mac.]()
