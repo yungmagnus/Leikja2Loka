@@ -6,7 +6,7 @@ Is a Unity based game built in a 3d enivornment but is played as a 2d platformer
 The Controls are rather simple:
 
 ```markdown
-You will be using "WASD" for moving around. Spacebar to jump and the "C" key to crouch
+You will be using "WASD" for moving around. Spacebar to jump and the "C" key to crouch and "F" for fireball in the last battle!
 ```
 
 ### Full Gameplay Footage
