@@ -11,7 +11,7 @@ You will be using "WASD" for moving around. Spacebar to jump and the "C" key to 
 
 ### Full Gameplay Footage
 
-Here can you see [Gameplay](https://youtu.be/Sx2RsTM39-A) of the game itself.
+Here can you see [Gameplay](https://youtu.be/UApjbgPbu4U) of the game itself.
 
 ### Try the [GAME](https://simmer.io/@mag_/mario) out for yourself!
 
