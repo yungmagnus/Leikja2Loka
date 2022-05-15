@@ -9,7 +9,7 @@ The Controls are rather simple:
 You will be using "WASD" for moving around. Spacebar to jump and the "C" key to crouch
 ```
 
-### Game footage [Game Unfinshed at state of recording]
+### Full Gameplay Footage
 
 Here can you see [Gameplay](https://youtu.be/Sx2RsTM39-A) of the game itself.
 
