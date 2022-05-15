@@ -23,4 +23,3 @@ Here can you see [Gameplay](https://youtu.be/Sx2RsTM39-A) of the game itself.
 ### Downloads:
 [Windows.]()
 
-[Mac.]()
