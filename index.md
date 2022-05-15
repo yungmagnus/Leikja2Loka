@@ -23,3 +23,6 @@ Here can you see [Gameplay](https://youtu.be/UApjbgPbu4U) of the game itself.
 ### Downloads:
 [Windows.](https://github.com/yungmagnus/Leikja2Loka/releases/tag/CRAZY)
 
+### Assets
+I mainly used [Hello Mario Assets](https://hellofangaming.github.io/HelloMarioAssets/)
+
