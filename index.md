@@ -21,5 +21,5 @@ Here can you see [Gameplay](https://youtu.be/Sx2RsTM39-A) of the game itself.
 [Here](https://github.com/yungmagnus/Leikja2Loka/wiki) is the link to the github wiki there you will be able to find my scripts for the project.
 
 ### Downloads:
-[Windows.]()
+[Windows.](https://github.com/yungmagnus/Leikja2Loka/releases/tag/CRAZY)
 
